@@ -6,4 +6,4 @@ Ce cours théorique propose une sensibilisation aux problématiques de l’expé
 
 Le cours se donne entre février 2023 et mai 2023 aux étudiants de première année. 
 
-Au fur et à mesure des séances, cette organisation github reprendra la table des matières du cours ainsi que des liens vers des ressources.
+Au fur et à mesure des séances, cette organisation reprendra la table des matières du cours ainsi que des liens vers des ressources.
