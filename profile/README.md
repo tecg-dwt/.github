@@ -4,4 +4,6 @@ Le cours de __Design Web Théorie__ est un cours du tronc commun du [Bachelier e
 
 Ce cours théorique propose une sensibilisation aux problématique de l’expérience utilisateur (_UX_), de l’accessibilité, des performances, bref de tout ce qui va dans le sens de la qualité Web.
 
-Le cours se donne entre février 2023 et mai 2023 aux étudiants de première année. Ce document reprendra la table des matières au fur et à mesure de l’avancement des cours.
+Le cours se donne entre février 2023 et mai 2023 aux étudiants de première année. 
+
+Au fur et à mesure des séances, cette organisation github reprendra la table des matières du cours ainsi que des liens vers des ressources.
